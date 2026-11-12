@@ -1,0 +1,55 @@
+{
+ "rfq_id": "rfq_01_email",
+ "customer_id": "C1003",
+ "customer_name": "Mesa Fabrication",
+ "lines": [
+  {
+   "line": 1,
+   "as_written": "20 ea 6204-2RS bearings",
+   "quantity": 20,
+   "unit": "EA",
+   "expected_part_number": "RL171482",
+   "match_method": "description",
+   "flags": []
+  },
+  {
+   "line": 2,
+   "as_written": "10 A42 v-belts",
+   "quantity": 10,
+   "unit": "EA",
+   "expected_part_number": "RL112676",
+   "match_method": "description",
+   "flags": []
+  },
+  {
+   "line": 3,
+   "as_written": "RL159429 x 3",
+   "quantity": 3,
+   "unit": "BX",
+   "expected_part_number": "RL159429",
+   "match_method": "ridgeline_part_number",
+   "flags": []
+  },
+  {
+   "line": 4,
+   "as_written": "1/2-13 x 2\" grade 8 hex bolts, 2 boxes",
+   "quantity": 2,
+   "unit": "BX",
+   "expected_part_number": "RL165435",
+   "match_method": "description",
+   "flags": []
+  },
+  {
+   "line": 5,
+   "as_written": "Same grease cartridges as last order, 2 cases",
+   "quantity": 2,
+   "unit": "CS",
+   "expected_part_number": null,
+   "match_method": null,
+   "flags": [
+    "needs_human_review"
+   ],
+   "note": "Refers to a previous order that is not in the data. Two plausible products (standard vs food-grade grease, case of 10). Must be flagged, not guessed."
+  }
+ ]
+}

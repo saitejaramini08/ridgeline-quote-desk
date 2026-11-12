@@ -1,0 +1,87 @@
+{
+ "rfq_id": "rfq_03_tricounty",
+ "customer_id": "C1010",
+ "customer_name": "Tri-County Water District",
+ "lines": [
+  {
+   "line": 1,
+   "as_written": "NF-220418 3/4 brass ball valve FP",
+   "quantity": 15,
+   "unit": "EA",
+   "expected_part_number": "RL134741",
+   "match_method": "cross_reference",
+   "flags": []
+  },
+  {
+   "line": 2,
+   "as_written": "NF-220420 1\" brass ball valve FP",
+   "quantity": 10,
+   "unit": "EA",
+   "expected_part_number": "RL179507",
+   "match_method": "cross_reference",
+   "flags": []
+  },
+  {
+   "line": 3,
+   "as_written": "same as above but 1/2\"",
+   "quantity": 10,
+   "unit": "EA",
+   "expected_part_number": "RL172063",
+   "match_method": "description",
+   "flags": [],
+   "note": "Refers to the previous line. Resolves to the 1/2 in lead-free brass full-port ball valve."
+  },
+  {
+   "line": 4,
+   "as_written": "NF-118203 2\" flange gasket 150#",
+   "quantity": 40,
+   "unit": "EA",
+   "expected_part_number": "RL118373",
+   "match_method": "cross_reference",
+   "flags": []
+  },
+  {
+   "line": 5,
+   "as_written": "NF-118204 3\" flange gasket 150#",
+   "quantity": 40,
+   "unit": "EA",
+   "expected_part_number": "RL124050",
+   "match_method": "cross_reference",
+   "flags": []
+  },
+  {
+   "line": 6,
+   "as_written": "NF-310077 AW46 hyd oil 5 gal",
+   "quantity": 6,
+   "unit": "EA",
+   "expected_part_number": "RL107944",
+   "match_method": "cross_reference",
+   "flags": [],
+   "note": "Customer unit PAIL maps to Ridgeline unit EA (one 5 gallon pail)."
+  },
+  {
+   "line": 7,
+   "as_written": "NF-505512 20x20x2 pleated filter MERV 8",
+   "quantity": 4,
+   "unit": "CS",
+   "expected_part_number": "RL149009",
+   "match_method": "cross_reference",
+   "flags": []
+  },
+  {
+   "line": 8,
+   "as_written": "NF-999120 Chlorine residual test kit",
+   "quantity": 2,
+   "unit": "EA",
+   "expected_part_number": null,
+   "match_method": null,
+   "flags": [
+    "not_carried"
+   ],
+   "note": "Ridgeline does not carry this item. Should be flagged, not matched to something similar."
+  }
+ ],
+ "non_item_rows": [
+  "Deliver to Plant 2, 4100 County Rd 9. Dock closes 2pm. (delivery note, not a line item)"
+ ]
+}

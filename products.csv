@@ -1,0 +1,201 @@
+part_number,description,category,unit,list_price,status,replaced_by,primary_warehouse
+RL183810,"Deep groove ball bearing 6201-2RS, rubber sealed both sides",Bearings,EA,6.10,active,,DAL
+RL103278,"Deep groove ball bearing 6201-ZZ, metal shielded both sides",Bearings,EA,5.79,active,,ATL
+RL136048,"Deep groove ball bearing 6202-2RS, rubber sealed both sides",Bearings,EA,6.60,active,,DAL
+RL129256,"Deep groove ball bearing 6202-ZZ, metal shielded both sides",Bearings,EA,6.27,active,,DAL
+RL196530,"Deep groove ball bearing 6203-2RS, rubber sealed both sides",Bearings,EA,7.20,active,,DAL
+RL188696,"Deep groove ball bearing 6203-ZZ, metal shielded both sides",Bearings,EA,6.84,active,,ATL
+RL171482,"Deep groove ball bearing 6204-2RS, rubber sealed both sides",Bearings,EA,8.40,active,,DAL
+RL177397,"Deep groove ball bearing 6204-ZZ, metal shielded both sides",Bearings,EA,7.98,active,,PHX
+RL104165,"Deep groove ball bearing 6205-2RS, rubber sealed both sides",Bearings,EA,9.30,active,,DAL
+RL112280,"Deep groove ball bearing 6205-ZZ, metal shielded both sides",Bearings,EA,8.84,active,,DAL
+RL130495,"Deep groove ball bearing 6206-2RS, rubber sealed both sides",Bearings,EA,11.80,active,,ATL
+RL178907,"Deep groove ball bearing 6206-ZZ, metal shielded both sides",Bearings,EA,11.21,active,,DAL
+RL173563,"Deep groove ball bearing 6207-2RS, rubber sealed both sides",Bearings,EA,14.90,active,,DAL
+RL193850,"Deep groove ball bearing 6207-ZZ, metal shielded both sides",Bearings,EA,14.15,active,,ATL
+RL191924,"Deep groove ball bearing 6208-2RS, rubber sealed both sides",Bearings,EA,18.20,active,,ATL
+RL154987,"Deep groove ball bearing 6208-ZZ, metal shielded both sides",Bearings,EA,17.29,active,,DAL
+RL158878,"Deep groove ball bearing 6209-2RS, rubber sealed both sides",Bearings,EA,21.50,active,,ATL
+RL136463,"Deep groove ball bearing 6209-ZZ, metal shielded both sides",Bearings,EA,20.43,active,,DAL
+RL199458,"Deep groove ball bearing 6210-2RS, rubber sealed both sides",Bearings,EA,24.70,active,,DAL
+RL191506,"Deep groove ball bearing 6210-ZZ, metal shielded both sides",Bearings,EA,23.46,active,,PHX
+RL144597,"Classic V-belt A30 (4L32), 1/2 in top width",Power Transmission,EA,10.60,active,,PHX
+RL120379,"Classic V-belt A33 (4L35), 1/2 in top width",Power Transmission,EA,10.96,active,,DAL
+RL144118,"Classic V-belt A36 (4L38), 1/2 in top width",Power Transmission,EA,11.32,active,,DAL
+RL112156,"Classic V-belt A39 (4L41), 1/2 in top width",Power Transmission,EA,11.68,active,,PHX
+RL112676,"Classic V-belt A42 (4L44), 1/2 in top width",Power Transmission,EA,12.04,active,,PHX
+RL145082,"Classic V-belt A45 (4L47), 1/2 in top width",Power Transmission,EA,12.40,active,,ATL
+RL134671,"Classic V-belt A48 (4L50), 1/2 in top width",Power Transmission,EA,12.76,active,,DAL
+RL195647,"Classic V-belt A51 (4L53), 1/2 in top width",Power Transmission,EA,13.12,active,,PHX
+RL170284,"Classic V-belt A54 (4L56), 1/2 in top width",Power Transmission,EA,13.48,active,,DAL
+RL149615,"Classic V-belt A57 (4L59), 1/2 in top width",Power Transmission,EA,13.84,active,,DAL
+RL172357,"Classic V-belt A60 (4L62), 1/2 in top width",Power Transmission,EA,14.20,active,,PHX
+RL182397,"Classic V-belt B42 (5L45), 21/32 in top width",Power Transmission,EA,17.30,active,,ATL
+RL147400,"Classic V-belt B48 (5L51), 21/32 in top width",Power Transmission,EA,18.20,active,,ATL
+RL125203,"Classic V-belt B55 (5L58), 21/32 in top width",Power Transmission,EA,19.25,active,,ATL
+RL109116,"Classic V-belt B60 (5L63), 21/32 in top width",Power Transmission,EA,20.00,active,,DAL
+RL186673,"Classic V-belt B68 (5L71), 21/32 in top width",Power Transmission,EA,21.20,active,,DAL
+RL137930,"Classic V-belt B75 (5L78), 21/32 in top width",Power Transmission,EA,22.25,active,,DAL
+RL130512,"ANSI #35 roller chain, riveted, 10 ft box",Power Transmission,BX,38.00,active,,DAL
+RL149823,ANSI #35 roller chain connecting link,Power Transmission,EA,1.20,active,,PHX
+RL159429,"ANSI #40 roller chain, riveted, 10 ft box",Power Transmission,BX,46.00,active,,ATL
+RL147819,ANSI #40 roller chain connecting link,Power Transmission,EA,1.40,active,,DAL
+RL148520,"ANSI #50 roller chain, riveted, 10 ft box",Power Transmission,BX,69.00,active,,PHX
+RL127460,ANSI #50 roller chain connecting link,Power Transmission,EA,2.10,active,,ATL
+RL134993,"ANSI #60 roller chain, riveted, 10 ft box",Power Transmission,BX,98.00,active,,ATL
+RL189593,ANSI #60 roller chain connecting link,Power Transmission,EA,2.90,active,,ATL
+RL109358,"Hex cap screw 1/4-20 x 1 in, grade 5, zinc plated, box of 100",Fasteners,BX,9.00,active,,ATL
+RL183227,"Hex cap screw 1/4-20 x 1 in, grade 8, yellow zinc, box of 100",Fasteners,BX,13.05,active,,DAL
+RL170010,"Hex cap screw 1/4-20 x 2 in, grade 5, zinc plated, box of 100",Fasteners,BX,12.00,active,,ATL
+RL132087,"Hex cap screw 1/4-20 x 2 in, grade 8, yellow zinc, box of 100",Fasteners,BX,17.40,active,,DAL
+RL160589,"Hex cap screw 5/16-18 x 1-1/2 in, grade 5, zinc plated, box of 100",Fasteners,BX,14.00,active,,PHX
+RL135382,"Hex cap screw 5/16-18 x 1-1/2 in, grade 8, yellow zinc, box of 100",Fasteners,BX,20.30,active,,ATL
+RL190198,"Hex cap screw 3/8-16 x 1 in, grade 5, zinc plated, box of 100",Fasteners,BX,16.00,active,,ATL
+RL128785,"Hex cap screw 3/8-16 x 1 in, grade 8, yellow zinc, box of 100",Fasteners,BX,23.20,active,,ATL
+RL142504,"Hex cap screw 3/8-16 x 1-1/2 in, grade 5, zinc plated, box of 100",Fasteners,BX,19.00,active,,DAL
+RL130021,"Hex cap screw 3/8-16 x 1-1/2 in, grade 8, yellow zinc, box of 100",Fasteners,BX,27.55,active,,DAL
+RL141347,"Hex cap screw 3/8-16 x 2 in, grade 5, zinc plated, box of 100",Fasteners,BX,22.00,active,,PHX
+RL135093,"Hex cap screw 3/8-16 x 2 in, grade 8, yellow zinc, box of 100",Fasteners,BX,31.90,active,,DAL
+RL127653,"Hex cap screw 1/2-13 x 1-1/2 in, grade 5, zinc plated, box of 100",Fasteners,BX,34.00,active,,ATL
+RL194098,"Hex cap screw 1/2-13 x 1-1/2 in, grade 8, yellow zinc, box of 100",Fasteners,BX,49.30,active,,PHX
+RL127869,"Hex cap screw 1/2-13 x 2 in, grade 5, zinc plated, box of 100",Fasteners,BX,39.00,active,,ATL
+RL165435,"Hex cap screw 1/2-13 x 2 in, grade 8, yellow zinc, box of 100",Fasteners,BX,56.55,active,,PHX
+RL184259,"Hex cap screw 1/2-13 x 3 in, grade 5, zinc plated, box of 100",Fasteners,BX,48.00,active,,PHX
+RL118726,"Hex cap screw 1/2-13 x 3 in, grade 8, yellow zinc, box of 100",Fasteners,BX,69.60,active,,PHX
+RL118301,"Hex cap screw 5/8-11 x 2 in, grade 5, zinc plated, box of 100",Fasteners,BX,61.00,active,,DAL
+RL197647,"Hex cap screw 5/8-11 x 2 in, grade 8, yellow zinc, box of 100",Fasteners,BX,88.45,active,,ATL
+RL170644,"Hex nut 1/4, grade 8, yellow zinc, box of 100",Fasteners,BX,6.00,active,,PHX
+RL197912,"Flat washer 1/4, SAE, zinc, box of 100",Fasteners,BX,3.00,active,,ATL
+RL156155,"Hex nut 3/8, grade 8, yellow zinc, box of 100",Fasteners,BX,9.00,active,,ATL
+RL152350,"Flat washer 3/8, SAE, zinc, box of 100",Fasteners,BX,4.00,active,,PHX
+RL128746,"Hex nut 1/2, grade 8, yellow zinc, box of 100",Fasteners,BX,15.00,active,,DAL
+RL166784,"Flat washer 1/2, SAE, zinc, box of 100",Fasteners,BX,6.00,active,,PHX
+RL111915,"Hex nut 5/8, grade 8, yellow zinc, box of 100",Fasteners,BX,22.00,active,,DAL
+RL114371,"Flat washer 5/8, SAE, zinc, box of 100",Fasteners,BX,9.00,active,,DAL
+RL182240,"Hydraulic fitting, JIC -06 (3/8 in) male to 3/8 in NPT male, 90 deg elbow, steel",Hydraulics,EA,9.60,active,,DAL
+RL189192,"Hydraulic fitting, JIC -06 (3/8 in) male to 3/8 in NPT male, straight, steel",Hydraulics,EA,6.40,active,,PHX
+RL178172,"Hydraulic fitting, JIC -06 (3/8 in) tee, steel",Hydraulics,EA,13.80,active,,DAL
+RL150432,"Hydraulic fitting, JIC -08 (1/2 in) male to 1/2 in NPT male, 90 deg elbow, steel",Hydraulics,EA,10.80,discontinued,RL120374,PHX
+RL178104,"Hydraulic fitting, JIC -08 (1/2 in) male to 1/2 in NPT male, straight, steel",Hydraulics,EA,7.20,active,,PHX
+RL169352,"Hydraulic fitting, JIC -08 (1/2 in) tee, steel",Hydraulics,EA,15.40,active,,PHX
+RL172512,"Hydraulic fitting, JIC -10 (5/8 in) male to 5/8 in NPT male, 90 deg elbow, steel",Hydraulics,EA,12.00,active,,DAL
+RL189166,"Hydraulic fitting, JIC -10 (5/8 in) male to 5/8 in NPT male, straight, steel",Hydraulics,EA,8.00,active,,ATL
+RL115014,"Hydraulic fitting, JIC -10 (5/8 in) tee, steel",Hydraulics,EA,17.00,active,,ATL
+RL170381,"Hydraulic fitting, JIC -12 (3/4 in) male to 3/4 in NPT male, 90 deg elbow, steel",Hydraulics,EA,13.20,active,,PHX
+RL184012,"Hydraulic fitting, JIC -12 (3/4 in) male to 3/4 in NPT male, straight, steel",Hydraulics,EA,8.80,active,,PHX
+RL114621,"Hydraulic fitting, JIC -12 (3/4 in) tee, steel",Hydraulics,EA,18.60,active,,PHX
+RL156985,"Hydraulic return filter element, 3 micron, cellulose, 9.5 in length",Filtration,EA,41.20,active,,DAL
+RL159470,"Hydraulic return filter element, 3 micron, glass fiber, 9.5 in length",Filtration,EA,58.60,active,,DAL
+RL194646,"Hydraulic return filter element, 10 micron, cellulose, 9.5 in length",Filtration,EA,37.00,active,,ATL
+RL134522,"Hydraulic return filter element, 10 micron, glass fiber, 9.5 in length",Filtration,EA,53.00,active,,ATL
+RL199871,"Hydraulic return filter element, 25 micron, cellulose, 9.5 in length",Filtration,EA,28.00,active,,DAL
+RL166542,"Hydraulic return filter element, 25 micron, glass fiber, 9.5 in length",Filtration,EA,41.00,active,,DAL
+RL139117,"Pleated air filter 12x24x2 in, MERV 8, case of 12",Filtration,CS,74.00,active,,ATL
+RL179818,"Pleated air filter 16x20x2 in, MERV 8, case of 12",Filtration,CS,70.00,active,,DAL
+RL149009,"Pleated air filter 20x20x2 in, MERV 8, case of 12",Filtration,CS,58.00,active,,DAL
+RL169514,"Pleated air filter 20x25x2 in, MERV 8, case of 12",Filtration,CS,71.00,active,,DAL
+RL142487,"Pleated air filter 24x24x2 in, MERV 8, case of 12",Filtration,CS,73.00,active,,PHX
+RL102552,"AC motor 1 HP, 1800 RPM, 3-phase 208-230/460V, TEFC, 56/145T/184T frame",Motors,EA,289.00,active,,DAL
+RL147576,"AC motor 1.5 HP, 1800 RPM, 3-phase 208-230/460V, TEFC, 56/145T/184T frame",Motors,EA,334.00,active,,PHX
+RL131385,"AC motor 2 HP, 1800 RPM, 3-phase 208-230/460V, TEFC, 56/145T/184T frame",Motors,EA,379.00,active,,DAL
+RL131571,"AC motor 3 HP, 1800 RPM, 3-phase 208-230/460V, TEFC, 56/145T/184T frame",Motors,EA,452.00,active,,ATL
+RL110322,"AC motor 5 HP, 1800 RPM, 3-phase 208-230/460V, TEFC, 56/145T/184T frame",Motors,EA,618.00,active,,DAL
+RL195932,"AC motor 7.5 HP, 1800 RPM, 3-phase 208-230/460V, TEFC, 56/145T/184T frame",Motors,EA,912.00,active,,PHX
+RL109071,"AC motor 10 HP, 1800 RPM, 3-phase 208-230/460V, TEFC, 56/145T/184T frame",Motors,EA,1174.00,active,,ATL
+RL116483,"Ball valve 1/4 in, lead-free brass, full port, NPT, 600 WOG",Valves,EA,11.00,active,,DAL
+RL186474,"Ball valve 3/8 in, lead-free brass, full port, NPT, 600 WOG",Valves,EA,12.00,active,,PHX
+RL172063,"Ball valve 1/2 in, lead-free brass, full port, NPT, 600 WOG",Valves,EA,14.00,active,,DAL
+RL134741,"Ball valve 3/4 in, lead-free brass, full port, NPT, 600 WOG",Valves,EA,19.00,active,,ATL
+RL179507,"Ball valve 1 in, lead-free brass, full port, NPT, 600 WOG",Valves,EA,27.00,active,,PHX
+RL127760,"Ball valve 1-1/4 in, lead-free brass, full port, NPT, 600 WOG",Valves,EA,41.00,active,,ATL
+RL198994,"Ball valve 1-1/2 in, lead-free brass, full port, NPT, 600 WOG",Valves,EA,55.00,active,,ATL
+RL190422,"Ball valve 2 in, lead-free brass, full port, NPT, 600 WOG",Valves,EA,82.00,active,,DAL
+RL193447,"Ball valve 1/2 in, 316 stainless steel, full port, NPT, 1000 WOG",Valves,EA,32.00,active,,PHX
+RL152296,"Ball valve 3/4 in, 316 stainless steel, full port, NPT, 1000 WOG",Valves,EA,41.00,active,,ATL
+RL185180,"Ball valve 1 in, 316 stainless steel, full port, NPT, 1000 WOG",Valves,EA,58.00,active,,PHX
+RL157422,"Ball valve 1-1/2 in, 316 stainless steel, full port, NPT, 1000 WOG",Valves,EA,104.00,active,,ATL
+RL159177,"Ball valve 2 in, 316 stainless steel, full port, NPT, 1000 WOG",Valves,EA,151.00,active,,DAL
+RL132493,"Push-to-connect fitting, 1/4 in tube OD x 1/4 in NPT male, 90 deg elbow",Pneumatics,EA,2.40,active,,DAL
+RL108392,"Push-to-connect fitting, 1/4 in tube OD x 1/4 in NPT male, straight",Pneumatics,EA,1.90,active,,PHX
+RL102757,"Push-to-connect union tee, 1/4 in tube OD",Pneumatics,EA,3.10,active,,ATL
+RL172603,"Polyurethane tubing, 1/4 in OD, blue, 100 ft roll",Pneumatics,RL,24.00,active,,DAL
+RL177128,"Push-to-connect fitting, 3/8 in tube OD x 3/8 in NPT male, 90 deg elbow",Pneumatics,EA,2.90,active,,DAL
+RL100942,"Push-to-connect fitting, 3/8 in tube OD x 3/8 in NPT male, straight",Pneumatics,EA,2.30,active,,DAL
+RL192778,"Push-to-connect union tee, 3/8 in tube OD",Pneumatics,EA,3.70,active,,ATL
+RL107716,"Polyurethane tubing, 3/8 in OD, blue, 100 ft roll",Pneumatics,RL,36.00,active,,DAL
+RL108834,"Push-to-connect fitting, 1/2 in tube OD x 1/2 in NPT male, 90 deg elbow",Pneumatics,EA,3.80,active,,DAL
+RL143309,"Push-to-connect fitting, 1/2 in tube OD x 1/2 in NPT male, straight",Pneumatics,EA,3.10,active,,DAL
+RL167391,"Push-to-connect union tee, 1/2 in tube OD",Pneumatics,EA,4.90,active,,DAL
+RL136500,"Polyurethane tubing, 1/2 in OD, blue, 100 ft roll",Pneumatics,RL,52.00,active,,ATL
+RL163624,"Cut-resistant gloves, ANSI A4, nitrile palm coating, size S",Safety,PR,6.90,active,,DAL
+RL170678,"Disposable nitrile gloves, 5 mil, powder-free, size S, box of 100",Safety,BX,14.50,active,,DAL
+RL194811,"Cut-resistant gloves, ANSI A4, nitrile palm coating, size M",Safety,PR,6.90,active,,ATL
+RL175525,"Disposable nitrile gloves, 5 mil, powder-free, size M, box of 100",Safety,BX,14.50,active,,PHX
+RL131850,"Cut-resistant gloves, ANSI A4, nitrile palm coating, size L",Safety,PR,6.90,active,,PHX
+RL153354,"Disposable nitrile gloves, 5 mil, powder-free, size L, box of 100",Safety,BX,14.50,active,,DAL
+RL112363,"Cut-resistant gloves, ANSI A4, nitrile palm coating, size XL",Safety,PR,6.90,active,,DAL
+RL186374,"Disposable nitrile gloves, 5 mil, powder-free, size XL, box of 100",Safety,BX,14.50,active,,PHX
+RL146438,"Safety glasses, clear anti-fog lens, ANSI Z87.1+",Safety,EA,3.40,active,,PHX
+RL153883,"Earplugs, foam, NRR 32, corded, box of 100 pairs",Safety,BX,39.00,active,,PHX
+RL195561,"Lithium complex grease, NLGI #2, 14 oz cartridge, case of 10",Lubrication,CS,72.00,active,,DAL
+RL188259,"Lithium complex grease, NLGI #2, 14 oz cartridge",Lubrication,EA,8.10,active,,ATL
+RL184696,"Food-grade H1 grease, NLGI #2, 14 oz cartridge, case of 10",Lubrication,CS,118.00,active,,DAL
+RL107944,"Hydraulic oil AW 46, 5 gallon pail",Lubrication,EA,96.00,active,,PHX
+RL195448,"Gear oil ISO 220, 5 gallon pail",Lubrication,EA,121.00,active,,PHX
+RL114322,"Gasket, flange, 1/2 in, 150 lb, non-asbestos fiber, 1/16 in thick",Sealing,EA,1.10,active,,DAL
+RL125112,"Gasket, flange, 3/4 in, 150 lb, non-asbestos fiber, 1/16 in thick",Sealing,EA,1.30,active,,DAL
+RL170292,"Gasket, flange, 1 in, 150 lb, non-asbestos fiber, 1/16 in thick",Sealing,EA,1.60,active,,PHX
+RL118373,"Gasket, flange, 2 in, 150 lb, non-asbestos fiber, 1/16 in thick",Sealing,EA,2.40,active,,PHX
+RL124050,"Gasket, flange, 3 in, 150 lb, non-asbestos fiber, 1/16 in thick",Sealing,EA,3.20,active,,PHX
+RL160637,"Gasket, flange, 4 in, 150 lb, non-asbestos fiber, 1/16 in thick",Sealing,EA,4.10,active,,DAL
+RL109880,"Gasket, flange, 6 in, 150 lb, non-asbestos fiber, 1/16 in thick",Sealing,EA,6.30,active,,PHX
+RL172132,"O-ring AS568-008, Buna-N 70A, pack of 25",Sealing,PK,9.35,active,,DAL
+RL170855,"O-ring AS568-010, Buna-N 70A, pack of 25",Sealing,PK,4.80,active,,DAL
+RL198771,"O-ring AS568-012, Buna-N 70A, pack of 25",Sealing,PK,10.31,active,,DAL
+RL163653,"O-ring AS568-014, Buna-N 70A, pack of 25",Sealing,PK,5.50,active,,PHX
+RL152565,"O-ring AS568-016, Buna-N 70A, pack of 25",Sealing,PK,5.78,active,,DAL
+RL100282,"O-ring AS568-018, Buna-N 70A, pack of 25",Sealing,PK,5.49,active,,PHX
+RL159638,"O-ring AS568-020, Buna-N 70A, pack of 25",Sealing,PK,6.09,active,,PHX
+RL195748,"O-ring AS568-110, Buna-N 70A, pack of 25",Sealing,PK,7.04,active,,ATL
+RL163788,"O-ring AS568-112, Buna-N 70A, pack of 25",Sealing,PK,8.47,active,,DAL
+RL128534,"O-ring AS568-114, Buna-N 70A, pack of 25",Sealing,PK,5.64,active,,DAL
+RL171066,"O-ring AS568-116, Buna-N 70A, pack of 25",Sealing,PK,7.98,active,,DAL
+RL107492,"O-ring AS568-210, Buna-N 70A, pack of 25",Sealing,PK,8.99,active,,DAL
+RL165909,"O-ring AS568-214, Buna-N 70A, pack of 25",Sealing,PK,8.01,active,,ATL
+RL166562,"O-ring AS568-222, Buna-N 70A, pack of 25",Sealing,PK,5.44,active,,DAL
+RL124356,"Shop towels, red, 18 x 18 in, pack of 50",Janitorial,PK,19.00,active,,DAL
+RL177992,"Absorbent pads, universal, 15 x 19 in, pack of 100",Janitorial,PK,64.00,active,,DAL
+RL188501,"Zip ties, nylon, 11 in, 50 lb, black, pack of 100",Electrical,PK,8.50,active,,DAL
+RL152923,"Electrical tape, vinyl, 3/4 in x 66 ft, black",Electrical,EA,1.90,active,,DAL
+RL174668,"Thread sealant tape, PTFE, 1/2 in x 520 in",Sealing,EA,1.40,active,,DAL
+RL175880,"Anti-seize compound, copper, 8 oz brush-top",Lubrication,EA,14.20,active,,ATL
+RL105209,"Threadlocker, medium strength blue, 10 ml",Sealing,EA,9.80,active,,ATL
+RL110745,"Threadlocker, high strength red, 10 ml",Sealing,EA,11.20,active,,PHX
+RL186163,"Penetrating oil, 11 oz aerosol",Lubrication,EA,7.60,active,,ATL
+RL174085,"Degreaser, citrus, 1 gallon",Janitorial,EA,18.40,active,,ATL
+RL141467,"Nitrile rubber sheet, 1/8 in x 12 x 12 in, 60A",Sealing,EA,13.50,active,,PHX
+RL126772,"Wire rope clip, 1/4 in, galvanized",Lifting,EA,1.30,active,,ATL
+RL193872,"Shackle, screw pin, 3/8 in, 1 ton WLL, galvanized",Lifting,EA,5.90,active,,PHX
+RL131285,"Ratchet strap, 2 in x 27 ft, 3,333 lb WLL",Lifting,EA,21.00,active,,PHX
+RL151876,"Wire rope, 1/4 in, 7x19 galvanized, 100 ft",Lifting,RL,79.00,active,,DAL
+RL188039,"Grinding wheel, 4-1/2 x 1/4 in, 5/8-11 arbor, type 27",Abrasives,EA,4.20,active,,ATL
+RL139321,"Cut-off wheel, 4-1/2 x 0.045 in, 7/8 in arbor, type 1",Abrasives,EA,2.60,active,,PHX
+RL141441,"Flap disc, 4-1/2 in, 60 grit, zirconia, type 29",Abrasives,EA,6.80,active,,DAL
+RL101220,"Sanding belt, 2 x 72 in, 80 grit, pack of 10",Abrasives,PK,29.00,active,,PHX
+RL181416,"Drill bit set, cobalt, 1/16 to 1/2 in, 29 pieces",Cutting Tools,EA,119.00,active,,ATL
+RL113104,"Jobber drill bit, 1/4 in, HSS, black oxide",Cutting Tools,EA,3.20,active,,DAL
+RL170468,"Tap, 3/8-16, HSS, plug, 4 flute",Cutting Tools,EA,9.40,active,,DAL
+RL166307,"Hose clamp, worm gear, 1-1/16 to 2 in, stainless, pack of 10",Hose & Fittings,PK,12.80,active,,PHX
+RL117361,"Hydraulic hose, 1/2 in ID, 2-wire, 3,250 psi, per foot",Hose & Fittings,FT,4.60,active,,PHX
+RL109016,"Air hose, 3/8 in x 50 ft, rubber, 1/4 in NPT ends",Hose & Fittings,EA,38.00,active,,DAL
+RL148434,"Quick coupler, industrial, 1/4 in NPT female",Pneumatics,EA,6.30,active,,PHX
+RL120676,"Pressure gauge, 2-1/2 in, 0-160 psi, 1/4 in NPT bottom",Instrumentation,EA,14.90,active,,PHX
+RL171200,"Solenoid valve, 2-way, 1/2 in NPT, 120 VAC, normally closed",Valves,EA,87.00,active,,ATL
+RL139651,"Check valve, 3/4 in, brass, spring loaded, NPT",Valves,EA,24.00,active,,ATL
+RL185717,"Pillow block bearing, 1 in bore, cast iron, set screw",Bearings,EA,22.50,active,,ATL
+RL101025,"Pillow block bearing, 1-1/4 in bore, cast iron, set screw",Bearings,EA,28.90,active,,ATL
+RL172692,"Flange bearing, 4-bolt, 1 in bore, cast iron",Bearings,EA,26.40,active,,PHX
+RL186951,"Sprocket, #40, 1 in bore, 18 teeth, keyed",Power Transmission,EA,24.00,active,,DAL
+RL117601,"Sheave, 1 groove A/4L, 5.0 in OD, 1 in bore",Power Transmission,EA,31.00,active,,PHX
+RL115129,"Jaw coupling hub, L-100, 1 in bore",Power Transmission,EA,17.50,active,,DAL
+RL120374,"Hydraulic fitting, JIC -08 (1/2 in) male to 1/2 in NPT male, 90 deg elbow, forged steel, Gen 2",Hydraulics,EA,11.90,active,,PHX

@@ -1,0 +1,65 @@
+{
+ "rfq_id": "rfq_02_clearwater",
+ "customer_id": "C1007",
+ "customer_name": "Clearwater Bottling Co.",
+ "lines": [
+  {
+   "line": 1,
+   "as_written": "APX-BB-6206ZZ",
+   "quantity": 12,
+   "unit": "EA",
+   "expected_part_number": "RL178907",
+   "match_method": "cross_reference",
+   "flags": []
+  },
+  {
+   "line": 2,
+   "as_written": "APX-VB-B55",
+   "quantity": 4,
+   "unit": "EA",
+   "expected_part_number": "RL125203",
+   "match_method": "cross_reference",
+   "flags": []
+  },
+  {
+   "line": 3,
+   "as_written": "APX-HF-JIC08-90",
+   "quantity": 25,
+   "unit": "EA",
+   "expected_part_number": "RL120374",
+   "match_method": "cross_reference",
+   "flags": [
+    "discontinued_replaced"
+   ],
+   "note": "Cross-reference points to RL150432, which is discontinued and replaced by RL120374. Should be caught and noted as a substitution."
+  },
+  {
+   "line": 4,
+   "as_written": "APX-FL-HE10",
+   "quantity": 6,
+   "unit": "EA",
+   "expected_part_number": "RL194646",
+   "match_method": "description",
+   "flags": [],
+   "note": "Not in the cross-reference sheet. Must be matched from the description."
+  },
+  {
+   "line": 5,
+   "as_written": "APX-GL-A4-L",
+   "quantity": 12,
+   "unit": "PR",
+   "expected_part_number": "RL131850",
+   "match_method": "cross_reference",
+   "flags": []
+  },
+  {
+   "line": 6,
+   "as_written": "APX-BV-SS100",
+   "quantity": 3,
+   "unit": "EA",
+   "expected_part_number": "RL185180",
+   "match_method": "cross_reference",
+   "flags": []
+  }
+ ]
+}

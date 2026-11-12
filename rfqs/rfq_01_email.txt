@@ -1,0 +1,19 @@
+From: Luis Ortega <lortega@mesafab.example>
+To: quotes@ridgelinesupply.example
+Date: Mon, 5 Oct 2026 07:42:10 -0700
+Subject: RFQ - bearings, belts, bolts
+
+Hi team,
+
+Can you quote the following for our Tempe shop? Need it by Friday if possible.
+
+- 20 ea 6204-2RS bearings
+- 10 A42 v-belts
+- RL159429 x 3
+- 1/2-13 x 2" grade 8 hex bolts, 2 boxes
+- Same grease cartridges as last order, 2 cases
+
+Thanks,
+Luis Ortega
+Purchasing, Mesa Fabrication
+(480) 555-0142

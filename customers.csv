@@ -1,0 +1,11 @@
+customer_id,name,region,pricing_tier
+C1001,Halvorsen Packaging,Central,contract
+C1002,Desert Sun Plastics,West,standard
+C1003,Mesa Fabrication,West,contract
+C1004,Kowalski Machine Works,Central,standard
+C1005,Bayou Marine Services,East,contract
+C1006,Pinecrest Lumber,East,standard
+C1007,Clearwater Bottling Co.,Central,contract
+C1008,Granite Peak Mining,West,contract
+C1009,Lakeshore Foods,East,contract
+C1010,Tri-County Water District,Central,contract
