@@ -1,0 +1,73 @@
+{
+  "rfq_id": "rfq_01_email",
+  "customer_id": "C1003",
+  "customer_name": "Mesa Fabrication",
+  "lines": [
+    {
+      "line": 1,
+      "as_written": "20 ea 6204-2RS bearings",
+      "quantity": 20,
+      "unit": "EA",
+      "ridgeline_part_number": "RL171482",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": false,
+      "flags": [],
+      "note": null
+    },
+    {
+      "line": 2,
+      "as_written": "10 A42 v-belts",
+      "quantity": 10,
+      "unit": "EA",
+      "ridgeline_part_number": "RL112676",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": false,
+      "flags": [],
+      "note": "A42 is the belt size designation as written by the customer; no other part number given."
+    },
+    {
+      "line": 3,
+      "as_written": "RL159429 x 3",
+      "quantity": 3,
+      "unit": "BX",
+      "ridgeline_part_number": "RL159429",
+      "match_method": "ridgeline_part_number",
+      "confidence": 0.99,
+      "needs_review": false,
+      "flags": [],
+      "note": "Customer gave only a part number with no item description."
+    },
+    {
+      "line": 4,
+      "as_written": "1/2-13 x 2\" grade 8 hex bolts, 2 boxes",
+      "quantity": 2,
+      "unit": "BX",
+      "ridgeline_part_number": "RL165435",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": false,
+      "flags": [],
+      "note": "Box count per box not specified."
+    },
+    {
+      "line": 5,
+      "as_written": "Same grease cartridges as last order, 2 cases",
+      "quantity": 2,
+      "unit": "CS",
+      "ridgeline_part_number": null,
+      "match_method": null,
+      "confidence": null,
+      "needs_review": true,
+      "flags": [
+        "part_number_missing",
+        "needs_human_review"
+      ],
+      "note": "Grease type/brand not stated; check the customer's previous order to identify the item.; refers to a previous order we cannot see"
+    }
+  ],
+  "non_item_rows": [
+    "Can you quote the following for our Tempe shop? Need it by Friday if possible."
+  ]
+}

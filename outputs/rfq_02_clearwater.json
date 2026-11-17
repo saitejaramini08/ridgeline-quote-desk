@@ -1,0 +1,91 @@
+{
+  "rfq_id": "rfq_02_clearwater",
+  "customer_id": "C1007",
+  "customer_name": "Clearwater Bottling Co.",
+  "lines": [
+    {
+      "line": 1,
+      "as_written": "1 APX-BB-6206ZZ Ball bearing 6206 ZZ shielded 12 EA",
+      "quantity": 12,
+      "unit": "EA",
+      "ridgeline_part_number": "RL178907",
+      "match_method": "cross_reference",
+      "confidence": 0.95,
+      "needs_review": false,
+      "flags": [],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    },
+    {
+      "line": 2,
+      "as_written": "2 APX-VB-B55 V-belt B55 4 EA",
+      "quantity": 4,
+      "unit": "EA",
+      "ridgeline_part_number": "RL125203",
+      "match_method": "cross_reference",
+      "confidence": 0.95,
+      "needs_review": false,
+      "flags": [],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    },
+    {
+      "line": 3,
+      "as_written": "3 APX-HF-JIC08-90 JIC -08 x 1/2 NPT 90 elbow 25 EA",
+      "quantity": 25,
+      "unit": "EA",
+      "ridgeline_part_number": "RL120374",
+      "match_method": "cross_reference",
+      "confidence": 0.95,
+      "needs_review": true,
+      "flags": [
+        "discontinued_replaced"
+      ],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions.; RL150432 is discontinued; quoting its replacement RL120374 \"Hydraulic fitting, JIC -08 (1/2 in) male to 1/2 in NPT male, 90 deg elbow, forged steel, Gen 2\""
+    },
+    {
+      "line": 4,
+      "as_written": "4 APX-FL-HE10 Hyd. return element 10 micron cellulose 6 EA",
+      "quantity": 6,
+      "unit": "EA",
+      "ridgeline_part_number": "RL194646",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": false,
+      "flags": [],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    },
+    {
+      "line": 5,
+      "as_written": "5 APX-GL-A4-L Cut resistant glove A4, Large 12 PR",
+      "quantity": 12,
+      "unit": "PR",
+      "ridgeline_part_number": "RL131850",
+      "match_method": "cross_reference",
+      "confidence": 0.95,
+      "needs_review": false,
+      "flags": [],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions. Unit is written as PR (pairs)."
+    },
+    {
+      "line": 6,
+      "as_written": "6 APX-BV-SS100 1\" ball valve, 316 SS, full port 3 EA",
+      "quantity": 3,
+      "unit": "EA",
+      "ridgeline_part_number": "RL185180",
+      "match_method": "cross_reference",
+      "confidence": 0.95,
+      "needs_review": false,
+      "flags": [],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    }
+  ],
+  "non_item_rows": [
+    "2210 Industrial Pkwy, Springfield, MO 65803",
+    "REQUEST FOR QUOTATION RFQ #: CB-RFQ-2026-0418 Date: 10/06/2026 Reply by: 10/09/2026",
+    "To: Ridgeline Industrial Supply. Part numbers below are from our current supplier (Apex Industrial).",
+    "Equivalent items acceptable; please note any substitutions.",
+    "Line Supplier Part # Description Qty UOM",
+    "Ship to: Plant 1 receiving dock.",
+    "Terms per contract.",
+    "Buyer: Karen Ellis, kellis@clearwaterbottling.example"
+  ]
+}

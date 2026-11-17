@@ -1,0 +1,78 @@
+{
+  "customer_name": "Mesa Fabrication",
+  "lines": [
+    {
+      "as_written": "20 ea 6204-2RS bearings",
+      "quantity": 20.0,
+      "unit_as_written": "ea",
+      "part_number_as_written": "6204-2RS",
+      "description": "6204-2RS bearings",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [],
+      "note": null
+    },
+    {
+      "as_written": "10 A42 v-belts",
+      "quantity": 10.0,
+      "unit_as_written": null,
+      "part_number_as_written": "A42",
+      "description": "A42 v-belts",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "unit_missing"
+      ],
+      "note": "A42 is the belt size designation as written by the customer; no other part number given."
+    },
+    {
+      "as_written": "RL159429 x 3",
+      "quantity": 3.0,
+      "unit_as_written": null,
+      "part_number_as_written": "RL159429",
+      "description": "RL159429 (no description given)",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "unit_missing",
+        "description_missing"
+      ],
+      "note": "Customer gave only a part number with no item description."
+    },
+    {
+      "as_written": "1/2-13 x 2\" grade 8 hex bolts, 2 boxes",
+      "quantity": 2.0,
+      "unit_as_written": "boxes",
+      "part_number_as_written": null,
+      "description": "1/2-13 x 2\" grade 8 hex bolts",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "part_number_missing"
+      ],
+      "note": "Box count per box not specified."
+    },
+    {
+      "as_written": "Same grease cartridges as last order, 2 cases",
+      "quantity": 2.0,
+      "unit_as_written": "cases",
+      "part_number_as_written": null,
+      "description": "Grease cartridges, same as last order",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": true,
+      "amended_by_thread": false,
+      "flags": [
+        "part_number_missing",
+        "refers_to_unknown_history"
+      ],
+      "note": "Grease type/brand not stated; check the customer's previous order to identify the item."
+    }
+  ],
+  "non_item_rows": [
+    "Can you quote the following for our Tempe shop? Need it by Friday if possible."
+  ]
+}

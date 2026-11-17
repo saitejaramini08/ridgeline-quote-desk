@@ -1,0 +1,99 @@
+{
+  "customer_name": "Clearwater Bottling Co.",
+  "lines": [
+    {
+      "as_written": "1 APX-BB-6206ZZ Ball bearing 6206 ZZ shielded 12 EA",
+      "quantity": 12.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "APX-BB-6206ZZ",
+      "description": "Ball bearing 6206 ZZ (shielded)",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "competitor_part_number"
+      ],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    },
+    {
+      "as_written": "2 APX-VB-B55 V-belt B55 4 EA",
+      "quantity": 4.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "APX-VB-B55",
+      "description": "V-belt B55",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "competitor_part_number"
+      ],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    },
+    {
+      "as_written": "3 APX-HF-JIC08-90 JIC -08 x 1/2 NPT 90 elbow 25 EA",
+      "quantity": 25.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "APX-HF-JIC08-90",
+      "description": "JIC -08 x 1/2 NPT 90 degree elbow",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "competitor_part_number"
+      ],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    },
+    {
+      "as_written": "4 APX-FL-HE10 Hyd. return element 10 micron cellulose 6 EA",
+      "quantity": 6.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "APX-FL-HE10",
+      "description": "Hydraulic return element, 10 micron, cellulose",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "competitor_part_number"
+      ],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    },
+    {
+      "as_written": "5 APX-GL-A4-L Cut resistant glove A4, Large 12 PR",
+      "quantity": 12.0,
+      "unit_as_written": "PR",
+      "part_number_as_written": "APX-GL-A4-L",
+      "description": "Cut resistant glove A4, Large",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "competitor_part_number"
+      ],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions. Unit is written as PR (pairs)."
+    },
+    {
+      "as_written": "6 APX-BV-SS100 1\" ball valve, 316 SS, full port 3 EA",
+      "quantity": 3.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "APX-BV-SS100",
+      "description": "1\" ball valve, 316 stainless steel, full port",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "competitor_part_number"
+      ],
+      "note": "Part number is from the customer's current supplier (Apex Industrial), not a Ridgeline part number. Customer accepts equivalents; note any substitutions."
+    }
+  ],
+  "non_item_rows": [
+    "2210 Industrial Pkwy, Springfield, MO 65803",
+    "REQUEST FOR QUOTATION RFQ #: CB-RFQ-2026-0418 Date: 10/06/2026 Reply by: 10/09/2026",
+    "To: Ridgeline Industrial Supply. Part numbers below are from our current supplier (Apex Industrial).",
+    "Equivalent items acceptable; please note any substitutions.",
+    "Line Supplier Part # Description Qty UOM",
+    "Ship to: Plant 1 receiving dock.",
+    "Terms per contract.",
+    "Buyer: Karen Ellis, kellis@clearwaterbottling.example"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "customer_name": "Tri-County Water District",
+  "lines": [
+    {
+      "as_written": "NF-220418 | 3/4 brass ball valve FP | 15 | EA",
+      "quantity": 15.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "NF-220418",
+      "description": "3/4 brass ball valve full port",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [],
+      "note": "Size written as \"3/4\" with no inch mark."
+    },
+    {
+      "as_written": "NF-220420 | 1\" brass ball valve FP | 10 | EA",
+      "quantity": 10.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "NF-220420",
+      "description": "1\" brass ball valve full port",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [],
+      "note": null
+    },
+    {
+      "as_written": "same as above but 1/2\" | 10 | EA | same spec as line 2",
+      "quantity": 10.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": null,
+      "description": "1/2\" brass ball valve full port",
+      "refers_to_previous_line": true,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "part_number_missing"
+      ],
+      "note": "No item number written for this line. Customer says same spec as line 2 (the 1\" brass ball valve full port) but in 1/2\" size."
+    },
+    {
+      "as_written": "NF-118203 | 2\" flange gasket 150# | 40 | EA",
+      "quantity": 40.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "NF-118203",
+      "description": "2\" flange gasket 150#",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [],
+      "note": null
+    },
+    {
+      "as_written": "NF-118204 | 3\" flange gasket 150# | 40 | EA | 1/16 thk",
+      "quantity": 40.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "NF-118204",
+      "description": "3\" flange gasket 150#, 1/16 thick",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [],
+      "note": "Customer specifies 1/16 thickness."
+    },
+    {
+      "as_written": "NF-310077 | AW46 hyd oil 5 gal | 6 | PAIL",
+      "quantity": 6.0,
+      "unit_as_written": "PAIL",
+      "part_number_as_written": "NF-310077",
+      "description": "AW46 hydraulic oil 5 gal",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [],
+      "note": null
+    },
+    {
+      "as_written": "NF-505512 | 20x20x2 pleated filter MERV 8 | 4 | CS | cs of 12",
+      "quantity": 4.0,
+      "unit_as_written": "CS",
+      "part_number_as_written": "NF-505512",
+      "description": "20x20x2 pleated filter MERV 8",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [],
+      "note": "Customer notes case of 12; quantity is 4 cases."
+    },
+    {
+      "as_written": "NF-999120 | Chlorine residual test kit | 2 | EA | if available",
+      "quantity": 2.0,
+      "unit_as_written": "EA",
+      "part_number_as_written": "NF-999120",
+      "description": "Chlorine residual test kit",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [],
+      "note": "Customer wrote \"if available\"."
+    }
+  ],
+  "non_item_rows": [
+    "Tri-County Water District - Request for Quotation",
+    "Bid # TCWD-26-117    Responses due 10/20/2026    Contact: R. Haines, (217) 555-0190",
+    "Item # | Desc. | Qty | UOM | Notes",
+    "Deliver to Plant 2, 4100 County Rd 9. Dock closes 2pm."
+  ]
+}

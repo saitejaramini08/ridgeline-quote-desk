@@ -1,0 +1,55 @@
+{
+  "customer_name": "Lakeshore Foods",
+  "lines": [
+    {
+      "as_written": "3 HP TEFC motor, 1800 rpm, 3 phase - qty 2",
+      "quantity": 2.0,
+      "unit_as_written": null,
+      "part_number_as_written": null,
+      "description": "5 HP TEFC motor, 1800 rpm, 3 phase",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": true,
+      "flags": [
+        "unit_missing",
+        "part_number_missing"
+      ],
+      "note": "Original line said 3 HP. Rick Dawson's later reply changed it to 5 HP (\"the 3 won't handle the new mixer\"). Quantity unchanged at 2. Customer name is inferred from the email domain (lakeshorefoods.example); it is not written out in the message."
+    },
+    {
+      "as_written": "2\" flange gaskets 150# - qty 20",
+      "quantity": 40.0,
+      "unit_as_written": null,
+      "part_number_as_written": null,
+      "description": "2\" flange gaskets, 150#",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": true,
+      "flags": [
+        "unit_missing",
+        "part_number_missing"
+      ],
+      "note": "Original quantity was 20. Rick Dawson's later reply raised it to 40 (\"we're doing both lines\"). Gasket material and type are not specified."
+    },
+    {
+      "as_written": "food grade grease cartridges - 3 cases",
+      "quantity": 3.0,
+      "unit_as_written": "cases",
+      "part_number_as_written": null,
+      "description": "food grade grease cartridges",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "part_number_missing"
+      ],
+      "note": "Rick Dawson confirmed this line is unchanged (\"Grease is fine as is\"). Cartridge size and grease grade are not specified."
+    }
+  ],
+  "non_item_rows": [
+    "Please quote per Rick's changes below. Thanks - Nina",
+    "Nina - make the motor 5HP not 3, the 3 won't handle the new mixer. And bump the gaskets to 40, we're doing both lines.",
+    "Grease is fine as is.",
+    "Rick, before I send to Ridgeline, does this look right?"
+  ]
+}

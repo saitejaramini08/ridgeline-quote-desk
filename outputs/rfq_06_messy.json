@@ -1,0 +1,100 @@
+{
+  "rfq_id": "rfq_06_messy",
+  "customer_id": "C1008",
+  "customer_name": null,
+  "lines": [
+    {
+      "line": 1,
+      "as_written": "bolts 3/8 x 1 1/2 gr5 - 300 (we usually get boxes)",
+      "quantity": 300,
+      "unit": null,
+      "ridgeline_part_number": "RL142504",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": true,
+      "flags": [
+        "unit_ambiguous",
+        "pack_quantity_check"
+      ],
+      "note": "Unclear whether 300 means 300 bolts or 300 boxes. Customer says they usually get boxes; confirm unit and box quantity. Thread pitch not specified.; quantity 300 has no pack unit; RL142504 is sold per BX (box of 100): confirm pieces or packs"
+    },
+    {
+      "line": 2,
+      "as_written": "nitrile gloves L - a few boxes",
+      "quantity": null,
+      "unit": "BX",
+      "ridgeline_part_number": "RL153354",
+      "match_method": "description",
+      "confidence": 0.7,
+      "needs_review": true,
+      "flags": [
+        "quantity_missing",
+        "ambiguous_candidates"
+      ],
+      "note": "Quantity written only as \"a few boxes\"; confirm exact number of boxes.; ambiguous: RL153354 \"Disposable nitrile gloves, 5 mil, powder-free, size L, box of 100\" vs RL131850 \"Cut-resistant gloves, ANSI A4, nitrile palm coating, size L\""
+    },
+    {
+      "line": 3,
+      "as_written": "NF-778812 x 4 (whatever you have thats equivalent)",
+      "quantity": 4,
+      "unit": null,
+      "ridgeline_part_number": null,
+      "match_method": null,
+      "confidence": null,
+      "needs_review": true,
+      "flags": [
+        "unit_missing",
+        "description_missing",
+        "equivalent_requested",
+        "not_carried"
+      ],
+      "note": "Customer accepts equivalents. No item description written, only the part number.; no catalog item matches; closest is RL100282 \"O-ring AS568-018, Buna-N 70A, pack of 25\" (missing 778812)"
+    },
+    {
+      "line": 4,
+      "as_written": "6205 bearings sealed qty 24",
+      "quantity": 24,
+      "unit": "EA",
+      "ridgeline_part_number": "RL104165",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": false,
+      "flags": [],
+      "note": "6205 is treated as the bearing size designation, not a part number."
+    },
+    {
+      "line": 5,
+      "as_written": "forklift tires 18x7-8 x4",
+      "quantity": 4,
+      "unit": null,
+      "ridgeline_part_number": null,
+      "match_method": null,
+      "confidence": null,
+      "needs_review": true,
+      "flags": [
+        "unit_missing",
+        "part_number_missing",
+        "not_carried"
+      ],
+      "note": "Tire type (e.g. pneumatic or solid) not specified.; no catalog item matches; closest is RL111915 \"Hex nut 5/8, grade 8, yellow zinc, box of 100\" (missing 18x7)"
+    },
+    {
+      "line": 6,
+      "as_written": "o-rings 214 buna",
+      "quantity": null,
+      "unit": "PK",
+      "ridgeline_part_number": "RL165909",
+      "match_method": "description",
+      "confidence": 0.84,
+      "needs_review": true,
+      "flags": [
+        "quantity_missing"
+      ],
+      "note": "No quantity written; confirm with customer."
+    }
+  ],
+  "non_item_rows": [
+    "need asap for the crusher rebuild:",
+    "sent from my phone"
+  ]
+}

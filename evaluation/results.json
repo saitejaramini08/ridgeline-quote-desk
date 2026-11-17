@@ -1,0 +1,35 @@
+{
+  "threshold": 0.8,
+  "extraction_accuracy": 1.0,
+  "match_precision": 1.0,
+  "match_recall": 1.0,
+  "additional_metrics": {
+    "lines": 19,
+    "null_lines_correct": 2,
+    "null_lines_expected": 2,
+    "review_rate": 0.2105,
+    "wrong_not_reviewed": 0,
+    "threshold_sweep": {
+      "0.5": {
+        "review_rate": 0.2105,
+        "wrong_not_reviewed": 0
+      },
+      "0.6": {
+        "review_rate": 0.2105,
+        "wrong_not_reviewed": 0
+      },
+      "0.7": {
+        "review_rate": 0.2105,
+        "wrong_not_reviewed": 0
+      },
+      "0.8": {
+        "review_rate": 0.2105,
+        "wrong_not_reviewed": 0
+      },
+      "0.9": {
+        "review_rate": 0.2105,
+        "wrong_not_reviewed": 0
+      }
+    }
+  }
+}

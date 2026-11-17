@@ -1,0 +1,101 @@
+{
+  "customer_name": null,
+  "lines": [
+    {
+      "as_written": "bolts 3/8 x 1 1/2 gr5 - 300 (we usually get boxes)",
+      "quantity": 300.0,
+      "unit_as_written": null,
+      "part_number_as_written": null,
+      "description": "Bolts 3/8 x 1 1/2 grade 5",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "unit_ambiguous",
+        "part_number_missing"
+      ],
+      "note": "Unclear whether 300 means 300 bolts or 300 boxes. Customer says they usually get boxes; confirm unit and box quantity. Thread pitch not specified."
+    },
+    {
+      "as_written": "nitrile gloves L - a few boxes",
+      "quantity": null,
+      "unit_as_written": "boxes",
+      "part_number_as_written": null,
+      "description": "Nitrile gloves, size large",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "quantity_missing",
+        "part_number_missing"
+      ],
+      "note": "Quantity written only as \"a few boxes\"; confirm exact number of boxes."
+    },
+    {
+      "as_written": "NF-778812 x 4 (whatever you have thats equivalent)",
+      "quantity": 4.0,
+      "unit_as_written": null,
+      "part_number_as_written": "NF-778812",
+      "description": "Item per part number NF-778812 (no description given)",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "unit_missing",
+        "description_missing",
+        "equivalent_requested"
+      ],
+      "note": "Customer accepts equivalents. No item description written, only the part number."
+    },
+    {
+      "as_written": "6205 bearings sealed qty 24",
+      "quantity": 24.0,
+      "unit_as_written": null,
+      "part_number_as_written": null,
+      "description": "6205 bearings 2RS",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "unit_missing",
+        "part_number_missing"
+      ],
+      "note": "6205 is treated as the bearing size designation, not a part number."
+    },
+    {
+      "as_written": "forklift tires 18x7-8 x4",
+      "quantity": 4.0,
+      "unit_as_written": null,
+      "part_number_as_written": null,
+      "description": "Forklift tires 18x7-8",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "unit_missing",
+        "part_number_missing"
+      ],
+      "note": "Tire type (e.g. pneumatic or solid) not specified."
+    },
+    {
+      "as_written": "o-rings 214 buna",
+      "quantity": null,
+      "unit_as_written": null,
+      "part_number_as_written": null,
+      "description": "O-rings, size 214, Buna",
+      "refers_to_previous_line": false,
+      "refers_to_unknown_history": false,
+      "amended_by_thread": false,
+      "flags": [
+        "quantity_missing",
+        "unit_missing",
+        "part_number_missing"
+      ],
+      "note": "No quantity written; confirm with customer."
+    }
+  ],
+  "non_item_rows": [
+    "need asap for the crusher rebuild:",
+    "sent from my phone"
+  ]
+}

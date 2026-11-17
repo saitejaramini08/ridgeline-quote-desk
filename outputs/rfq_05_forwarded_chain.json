@@ -1,0 +1,53 @@
+{
+  "rfq_id": "rfq_05_forwarded_chain",
+  "customer_id": "C1009",
+  "customer_name": "Lakeshore Foods",
+  "lines": [
+    {
+      "line": 1,
+      "as_written": "3 HP TEFC motor, 1800 rpm, 3 phase - qty 2",
+      "quantity": 2,
+      "unit": "EA",
+      "ridgeline_part_number": "RL110322",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": true,
+      "flags": [
+        "amended_in_thread"
+      ],
+      "note": "Original line said 3 HP. Rick Dawson's later reply changed it to 5 HP (\"the 3 won't handle the new mixer\"). Quantity unchanged at 2. Customer name is inferred from the email domain (lakeshorefoods.example); it is not written out in the message."
+    },
+    {
+      "line": 2,
+      "as_written": "2\" flange gaskets 150# - qty 20",
+      "quantity": 40,
+      "unit": "EA",
+      "ridgeline_part_number": "RL118373",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": true,
+      "flags": [
+        "amended_in_thread"
+      ],
+      "note": "Original quantity was 20. Rick Dawson's later reply raised it to 40 (\"we're doing both lines\"). Gasket material and type are not specified."
+    },
+    {
+      "line": 3,
+      "as_written": "food grade grease cartridges - 3 cases",
+      "quantity": 3,
+      "unit": "CS",
+      "ridgeline_part_number": "RL184696",
+      "match_method": "description",
+      "confidence": 1.0,
+      "needs_review": false,
+      "flags": [],
+      "note": "Rick Dawson confirmed this line is unchanged (\"Grease is fine as is\"). Cartridge size and grease grade are not specified."
+    }
+  ],
+  "non_item_rows": [
+    "Please quote per Rick's changes below. Thanks - Nina",
+    "Nina - make the motor 5HP not 3, the 3 won't handle the new mixer. And bump the gaskets to 40, we're doing both lines.",
+    "Grease is fine as is.",
+    "Rick, before I send to Ridgeline, does this look right?"
+  ]
+}
